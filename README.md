@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vky29
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on who interest to coding and developing most challenging application
 - 📫 you can reach on linkedin.com/in/vigneshwaran-m29
 
